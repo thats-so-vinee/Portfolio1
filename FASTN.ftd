@@ -9,8 +9,8 @@ favicon: /-/thats-so-vinee.github.io/Portfolio1/favicon.ico
 -- fastn.dependency: thats-so-vinee.github.io/ui-packages
 
 -- fastn.auto-import: ds
--- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/my-ds
--- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
+-- fastn.auto-import: thats-so-vinee.github.io/portfolio1/FASTN/my-ds
+-- fastn.auto-import: thats-so-vinee.github.io/portfolio1/assets
 
 
 -- fastn.sitemap:
