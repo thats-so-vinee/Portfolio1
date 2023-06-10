@@ -1,11 +1,12 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
-favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
+-- fastn.package: thats-so-vinee.github.io/Portfolio1
+favicon: /-/thats-so-vinee.github.io/Portfolio1/favicon.ico
 
 
 -- fastn.dependency: fastn-community.github.io/doc-site as ds
 -- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: thats-so-vinee.github.io/ui-packages
 
 -- fastn.auto-import: ds
 -- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/my-ds
